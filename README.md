@@ -1,2 +1,1 @@
-# docker-flask-minimal
-placeholder app for testing network setup
+minimal dockerized flask app for testing purposes
